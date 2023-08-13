@@ -1,0 +1,12 @@
+   0 touch myfirstbashscript.sh
+   1 chmod +x myfirstbashscript.sh
+   2 ls
+   3 export USER=Pasha_Oryshchych
+   4 cd /etc/environment
+   5 cd /
+   6 sudo nano /etc/environment
+   7 cd ~
+   8 nano myfirstbashscript.sh 
+   9 ls
+  10 myfirstbashscript.sh 
+  11 history > history_hw5
